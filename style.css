@@ -15,11 +15,12 @@ header{
 body {
     display: flex;
     font-family: Arial, sans-serif;
-    background-color: #f4f7fc;
+    background-color: #8edff3;
 }
 .sections{    margin-top: 3%;}
 
 .sidebar {
+    position: sticky;
     margin-top: 3%;
     width: 250px;
     height: 100vh;
@@ -59,13 +60,16 @@ body {
     background-color: #6a90b6;
 }
 
-.dropdown-menu {
+.accounts-content {
     display: none;
     list-style-type: none;
     margin-left: 20px;
 }
 
-.sidebar-menu li:hover .dropdown-menu {
+.sidebar-menu li:hover .accounts-content {
     display: block;
 }
 
+.sections{
+    margin: 100px;
+}
