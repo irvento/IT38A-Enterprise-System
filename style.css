@@ -6,7 +6,8 @@
 header{
     width: 100%;
     height: 44px;
-    color: #1d3338;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
     font-size: 24px;
     position: fixed;
     background-color: #6a90b6;
@@ -76,4 +77,8 @@ section{
 }
 .sections{
     margin-left: 300px;
+}
+
+.section-content{
+    margin-top: 50px;
 }
