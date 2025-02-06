@@ -20,7 +20,7 @@ body {
 .sections{    margin-top: 3%;}
 
 .sidebar {
-    position: sticky;
+    position: fixed;
     margin-top: 3%;
     width: 250px;
     height: 100vh;
@@ -70,6 +70,10 @@ body {
     display: block;
 }
 
+section{
+    margin-top: 100px;
+    margin-bottom: 300px;
+}
 .sections{
-    margin: 100px;
+    margin-left: 300px;
 }
