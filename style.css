@@ -5,9 +5,13 @@
 }
 
 body {
+    background-image: url(https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     display: flex;
     font-family: Arial, sans-serif;
-    background-color: #8edff3;
+    background-color: #8edff386;
 }
  
 
@@ -72,5 +76,17 @@ section{
 }
 
 .section-content{
-    margin-top: 50px;
+    font-family: Georgia, serif;
+font-size: 25px;
+letter-spacing: 2px;
+word-spacing: -3.8px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: italic;
+font-variant: small-caps;
+text-transform: none;
+
+text-shadow: 1px 3px 0 #3c65b1bd, 1px 13px 5px #1e1bb385;
+
 }
