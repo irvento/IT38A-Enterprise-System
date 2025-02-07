@@ -48,20 +48,15 @@ Case Study 2: Failed Enterprise System Implementation by Nike
 
 Comparative Analysis: A table for both case study 1 & 2.   
 
-    -----------------------------------------------------------------------
-    |               |SUCCESS(N&N Moving Supplies) |     FAILURE(Nike)     |  
-    -----------------------------------------------------------------------
-    |               |                             |                       |  
-    -----------------------------------------------------------------------
-    |               |                             |                       |
-    -----------------------------------------------------------------------  
-    |               |                             |                       | 
-    ----------------------------------------------------------------------- 
-    |               |                             |                       |
-    -----------------------------------------------------------------------  
-    |               |                             |                       |
-    ----------------------------------------------------------------------  
-    |               |                             |                       |-----------------------------------------------------------------------  
+    ------------------------------------------------------------------------------------------------------------------------------
+    |                           | SUCCESS(N&N Moving Supplies)                  |     FAILURE(Nike)                              |  
+    ------------------------------------------------------------------------------------------------------------------------------
+    |Business Need              | Payroll & financial tracking inefficiencies   |  Supply chain & order fulfillment optimization |  
+    |Implementation Partner     | NOVAtime (tailored integration)               |  No external partner for ERP testing           |
+    |Testing & Preparation      | Comprehensive testing before deployment       |  Insufficient testing before launch            | 
+    |Employee Involvement       | Employee training & dashboards provided       |  Inadequate change management                  |
+    |Project Goals              | Realistic & phased approach                   |  Overly ambitious & rushed                     |
+    |Outcome                    | Improved efficiency & decision-making         |  Costly failures & stock price drop            |------------------------------------------------------------------------------------------------------------------------------  
 
         https://www.techtarget.com/searcherp/feature/7-reasons-for-ERP-implementation-failure
         https://www.netsuite.com/portal/resource/articles/erp/erp-implementation-case-study.shtml
