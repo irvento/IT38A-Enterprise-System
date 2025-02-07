@@ -4,7 +4,7 @@ Research title: "Comparative Analysis of Successful and Failed Enterprise System
 Case Study 1: Successful Enterprise System Implementation by N&N Moving Supplies
 
     Company Overview
-        N&N Moving Supplies, a family-run distributor of moving equipment, expanded from one to three locations, significantly increasing its workforce. The company initially relied on QuickBooks and a third-party payroll provider but struggled with tracking time records and reconciling payroll with financial accounts. To streamline operations and improve efficiency, N&N implemented NetSuite ERP.
+        N&N Moving Supplies, a family-owned distributor of moving equipment, expanded from one to three locations, thereby nearly tripling its headcount. Initially, QuickBooks and a third-party payroll provider sufficed but proved insufficient for time record tracking and reconciliation of payroll with financial accounts. N&N decided to establish NetSuite ERP as a means to enhance efficiency and streamline processes.
 
     Implementation Process
         To ensure a smooth transition, N&N partnered with NOVAtime to integrate a time-clock solution within NetSuite ERP. This integration aimed to automate payroll, enhance financial tracking, and provide employees with access to personalized dashboards via iPads at each site. The company prioritized user training and change management to maximize adoption.
@@ -27,10 +27,10 @@ Case Study 1: Successful Enterprise System Implementation by N&N Moving Supplies
 Case Study 2: Failed Enterprise System Implementation by Nike
 
     Company Overview
-        Nike is a global leader in sportswear that began an ERP upgrade worth $400 million in 2000. The idea was to make supply chain and order fulfillment processes easier. It was aimed at enhancing the management of inventory, improving demand forecasting, and integrating business functions. The implementation, however, caused extreme disruptions that resulted in $100 million in lost sales and a 20% drop in stock price.
+        Nike is the sportswear leader around the world. In 2000, Nike initiated an upgrade of ERP that was valued at $400 million. It wanted to simplify the processes in its supply chain and order fulfillment. The intention was to enhance inventory management, better demand forecasting, and integrating the business functions. However, this led to extreme disruption and the company lost sales of $100 million with the stock price declining by 20%.
 
     Implementation Process & Challenges
-        Nike implemented a new ERP system but did not align business processes with operational needs. The company did not test the system before deploying it. As a result, there were inventory mismatches and fulfillment issues, especially for high-demand products such as Air Jordan footwear. Unrealistic goals and an overly aggressive timeline only worsened the problems.
+        Nike implemented a new ERP system and did not synchronize business processes to meet operational requirements. The firm did not run any tests of the system prior to deploying the system. Hence, there existed inventory mismatches and fulfillment errors, particularly regarding high-demand Air Jordan footwear products. Unrealistic goals and a very aggressive schedule only exacerbated matters.
 
     Key Failure Factors
 
@@ -97,6 +97,11 @@ Insights & recommendations
         • Investigating the long-term ROI of successful ERP implementations.
 
 
+REFERENCES:
 
-        https://www.techtarget.com/searcherp/feature/7-reasons-for-ERP-implementation-failure
+        Strutner, S. (2024, November 22). 3 successful ERP implementation case studies.
+        Lawton, G. (2024, January 19). 10 notable ERP implementation failures and why they failed. 
+        
+
         https://www.netsuite.com/portal/resource/articles/erp/erp-implementation-case-study.shtml
+        https://www.techtarget.com/searcherp/feature/10-notable-ERP-implementation-failures-and-why-they-failed
